@@ -1,6 +1,6 @@
-# Imaging-Threadmill
+## Imaging-Treadmill
 
-## The design files are consist of three main parts
+## The design consists of three main parts:
 ### Head fix clamp
 ### Rotation stage
-### Threadmill
+### Treadmill
