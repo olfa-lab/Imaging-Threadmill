@@ -1,6 +1,5 @@
-## Imaging-Treadmill
+## Treadmill for Imaging/Stimulation of Head Fixed Mice
 
-## The design consists of three main parts:
-### Head fix clamp
-### Rotation stage
-### Treadmill
+### Head fix clamp:
+### Rotation stage:
+### Treadmill:
