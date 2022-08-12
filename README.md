@@ -5,7 +5,7 @@ All components referenced in the assembly instructions below are listed their re
 ## ASSEMBLY INSTRUCTIONS ##
 ### Rotation stage:
 - Drill out the threads of the two middle through-holes in the metal base so that they are smooth 1/4-20 clearance holes.
-- Use set screws to firmly attach the metal posts on both sides of the base.
+- Use set screws to firmly attach metal posts on both sides of the base.
 - Slide the 3D printed treadmill frame onto the base + post assembly.
 - Use middle two holes in the base of the assembly to secure the base to the rotation stage/platform with 1/4-20 screws.
 ### Head fix clamp:
