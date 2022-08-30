@@ -1,1 +1,1 @@
-
+This is a component that can be fitted onto one of the LEGO Technic axles and matched to its corresponding hole on the treadmill (middle hole from side view). In doing so you prevent the axles from rotating and therefore brake/halt all movement of the treadmill whenever necessary.
