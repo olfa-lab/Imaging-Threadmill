@@ -1,5 +1,5 @@
 ## Treadmill for Imaging/Stimulation of Head Fixed Mice
-  This is a treadmill design intended for use in imaging and stimulation rigs, which allows the animal to move and relieve anxiety over the course of a session while maintaining complete stability for clear signal. This design is simple to assemble and was created to address concerns with weight, cost, and space. Most notably, this treadmill accommodates the load-tolerance parameters of a goniometer, thus allowing the whole assembly to be precisely angled to achieve the most suitable field of view.
+  This is a treadmill for use in imaging and stimulation rigs. This design allows the animal to move and relieve stress over the course of a session while maintaining complete stability for clear signal. The treadmill is simple to assemble and was created to address concerns with weight, cost, and space. Most notably, this design accommodates the load-tolerance parameters of a goniometer, thus allowing the whole assembly to be precisely angled to achieve the most suitable field of view.
 
 All components referenced in the assembly instructions below are listed their respective folders (.STL files for 3D printed components and specs/links for hardware).
 ## ASSEMBLY INSTRUCTIONS ##
