@@ -20,3 +20,6 @@ All components referenced in the assembly instructions below are listed their re
 - Fasten the gears in place by threading a LEGO axle through the holes in the treadmill and the gears.
 - Assemble LEGO treads, lay two strips (one over each row of gears) and snap them together.
 - Lower treadmill onto the assembly (shorter end forward) and secure at desired height using a screw and washer through the slider hole/heat set insert.   
+### DiamondPost
+- diamond_post_standard_MK2 is mainly used for imaging setup. It has been designed for Nikon 16/0.8 and 10X/0.5 while using water as an immersion medium. 
+- The depth of well can be smaller if you want to use less viscous medium (such as ultrasound gel).
