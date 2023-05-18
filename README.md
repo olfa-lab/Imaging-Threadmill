@@ -23,3 +23,11 @@ All components referenced in the assembly instructions below are listed their re
 ### DiamondPost (Headbar)
 - diamond_post_standard_MK2 is mainly used for imaging setup. It has been designed for Nikon 16/0.8 and 10X/0.5 while using water as an immersion medium. 
 - The depth of well can be smaller if you want to use less viscous medium (such as ultrasound gel).
+
+### Versions
+Mihaly Voroslakos did some modifications and his version can be found
+https://github.com/misiVoroslakos/3D_printed_designs/tree/main/Treadmill_Rinberg
+
+### Parts
+Part list can be reached here. 
+https://github.com/misiVoroslakos/3D_printed_designs/blob/main/Treadmill_Rinberg/BOM_Treadmill_Rinberg.txt 
